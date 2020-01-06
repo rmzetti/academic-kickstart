@@ -14,7 +14,7 @@ role: Posessor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: What am I going to do now
+- name: What am I going to do now is
   url: "https://whatamigoingtodonow.net"
 
 # Short bio (displayed in user profile at end of posts)
